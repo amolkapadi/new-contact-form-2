@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.card{
+    border-radius: 20px !important;
+    padding: 32px;
+}
+.card-img-top{
+    border-radius: 20px !important;
+
+}
+.bg-section{
+        background-color: #ef4366 !important;
+}
+h4{
+        font-size: 2.25rem !important;
+}
+p{
+        font-size: 1.5rem !important;
+}
+.btn-primary{
+    background-color: #ef4366 !important;
+    border-color: #ef4366 !important;
+    width: 100%;
+    border-radius: 10px !important;
+}
+.form-control{
+    height: 55px !important;
+    border-radius: 7px !important;
+    color: #111111;
+    background-color: #e5e5e5 !important;
+}
